@@ -11,30 +11,43 @@ Lychee : small white fruit with a hard red shell
 Banana : fruit often associated with monkeys
 Grapes : used to make wine
 Apple : used to make cider
-Cellphone : a
-Deck : a
-Plastic : b
-Bottle : c
-Spinner : e
-Chair : w
-Quadricycle : r
-Restaurant : y
-Blackboard : u
-Funnily : i
-ComputerScience : 9
-BiddyMartin : 7
-Window : y
-Flooring : y
-Backpack : u
-Basketball : 8
-Photograph : r
-Willow : f
-Football : d
-Flabbergasting : a
-Volleyball : s
-Headphones : f
-Condition : d
-FigureSkating : a
-Primavera : a
-WeNeedMoreWords : g
-ThisReallyNeedsToWork : a
+Cellphone : short form for ‘cellular telephone’
+Deck : a ___ of cards
+Plastic : consists of polymers and is used to make cups and plates
+Bottle : used to store beverages
+Spinner : a fidget ___
+Chair : people sit on it
+Quadricycle : an old-generation 4-wheeled vehicle
+Restaurant : where people eat
+Blackboard : you use chalk on it
+Funnily : humorous “adverb”
+ComputerScience : 9 field of science that deals with coding
+BiddyMartin : The current President of Amherst College
+Window : used to view outside when indoors
+Flooring : tiling
+Backpack : you carry your school supplies in it
+Basketball : LeBron James
+Photograph : picture
+Willow : a sad tree
+Football : soccer in the US
+Flabbergasting : shocking
+Volleyball : a sport played both indoors and outdoors, very popular in Brazil
+Headphones : you use it to listen to music from a device
+Condition : can mean requirement, disease or situation
+FigureSkating : artistic sport performed on ice
+Primavera : ‘spring’ in spanish
+White : the sum of all the colors
+Drake : a male duck
+Rhodium : the most expensive mineral on earth
+School : where people learn and gain knowledge
+Christmas : most celebrated Christian holiday
+Dove : a white bird
+Dentist : a tooth doctor
+Earth : the third planet from the sun
+Parliament : the legislative arm of government
+Google  : the most common search engine
+Language : a means of communication between a common people
+Hut : a thatched-roof house
+Microphone : a voice enhancing device
+Electricity : form of energy used for running machines and lighting
+iCloud : Apple's online storage service
